@@ -1,7 +1,7 @@
 # Chedotal_Lab_Head_Development
 Python notebooks used in Blain et al., 2023, "A tridimensional atlas of the developing human head." 
 
-This repository contains notebooks for the following:
+This repository contains the following notebooks:
 
 *(1) Mask_Labels.ipynb*
 
