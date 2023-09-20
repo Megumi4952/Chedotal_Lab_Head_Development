@@ -13,4 +13,4 @@ Perform quadric edge collapse decimation on a folder of meshes to reduce the fil
 
 *(3) Merge_Meshes_for_3DP.ipynb*
 
-Merge multiple mesh files into one and reconstruct it to prepare surface files for a single 3D printable STL file.  
+Merges multiple mesh files in a folder into a single file, binarizes it into isotropic voxels and exports a single tiff stack, using pymeshlab and vedo.  
