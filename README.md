@@ -11,6 +11,6 @@ Extract segmentation masks made in Syglass from raw TIFF images using tifffile, 
 
 Perform quadric edge collapse decimation on a folder of meshes to reduce the filesize of each surface mesh, using pymeshlab. 
 
-*(3) 3D_Print_Prep.ipynb*
+*(3) Merge_Meshes_for_3DP.ipynb*
 
 Merge multiple mesh files into one and reconstruct it to prepare surface files for a single 3D printable STL file.  
